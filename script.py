@@ -1,3 +1,3 @@
 #script.py
-def addition (A, B)
+def addition (A, B):
     return A + B
